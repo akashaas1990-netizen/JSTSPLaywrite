@@ -1,0 +1,33 @@
+{
+  "name": "jstsplaywrite-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_helloworld.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "playwright": "^1.65.0",
+    "playwright-core": "^1.65.0",
+    "undici-types": "^8.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashaas1990-netizen/JSTSPlaywrite.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/akashaas1990-netizen/JSTSPlaywrite/issues"
+  },
+  "homepage": "https://github.com/akashaas1990-netizen/JSTSPlaywrite#readme"
+}
